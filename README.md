@@ -1,2 +1,1 @@
-# Prog-poly
-Jogo para ensinar algorítimos
+# Prog-poly: Ensino de algorítimos através de jogos educacionais baseados no Monopoly
