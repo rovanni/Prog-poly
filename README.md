@@ -20,9 +20,6 @@ NãoComercial — Você não pode usar o material para fins comerciais.
 CompartilhaIgual — Se você remixar, transformar, ou criar a partir do material, tem de distribuir as suas contribuições sob a mesma licença que o original.
 Sem restrições adicionais — Você não pode aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a licença permita.
 
-Avisos:
-Você não tem de cumprir com os termos da licença relativamente a elementos do material que estejam no domínio público ou cuja utilização seja permitida por uma exceção ou limitação que seja aplicável.
-Não são dadas quaisquer garantias. A licença pode não lhe dar todas as autorizações necessárias para o uso pretendido. Por exemplo, outros direitos, tais como direitos de imagem, de privacidade ou direitos morais, podem limitar o uso do material.
-
+Leia mais sobre a licença em:
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt
