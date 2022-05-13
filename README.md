@@ -4,6 +4,7 @@ O jogo denominado Prog-poly, é um jogo de tabuleiro que foi desenvolvido por Lu
 As orientações para impressão do Jogo estão no arquivo "Prog-poly/Prog-poly/Como imprimir.pdf/" que está disponivel no diretorio raiz.
 Para auxiliar os participantes no monitoramento do seu desempenho durante as partidas, foi desenvolvido o Software de Desempenho dos Jogadores do Prog-Poly (SDJP), ele se encontra na pasta Prog-poly/Prog-poly/Software/ e possibilita que os participantes acompanhem seu desempenho no jogo, possibilitando verificar quais foram seus erros e acertos nas respostas das perguntas, assim podendo estudar o conteúdo que tiveram maior dificuldade. Os dados podem ser exportados para uma planilha do Excel.
 O manual de utilização do SDJP encontra-se na pasta Prog-poly/Prog-poly/Software/Manual/
+A dissetação do mestrado encontra-se na pasta pasta Prog-poly/Prog-poly/Dissertacao/
 
 O Jogo de tabuleiro Prog-poly e o software são protegidos pelas leis de direitos autorais, Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)
 This is a human-readable summary of (and not a substitute for) the license. Exoneração de Responsabilidade.
