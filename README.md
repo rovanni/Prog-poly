@@ -2,7 +2,7 @@
 
 O jogo denominado Prog-poly, é um jogo de tabuleiro que foi desenvolvido por Luciano Rovanni do Nascimento, durante meu mestrado na Universidade Tecnológica Federal do Paraná (UTFPR). Meu orientador foi Prof. Dr. José Augusto Fabri e co-orientador Rodrigo Henrique Cunha Palacios. O Jogo tem o objetivo ajudar nos estudos de Linguagem de Programação e Engenharia de Software, proporcionando maior engajamento e motivação aos estudantes. O jogo ensina Introdução à Engenharia de Software (IES) e Introdução à Linguagem de Programação C (ILPC). Prog-poly permite aos alunos que desenvolvam as habilidades e competências relacionadas à IES e ILPC. É uma ferramenta educacional que pode ser utilizada nos estudos introdutorios de Engenharia de Software e Linguagem de Programação C, além de permitir a integração com tecnologias e recursos didáticos já existentes.
 
-As orientações para impressão do Jogo estão no arquivo "Prog-poly/Prog-poly/Como imprimir.pdf/" que está disponivel no diretorio raiz.
+As orientações para impressão do Jogo encontra-se na pasta "Prog-poly/Prog-poly/Como imprimir.pdf/".
 
 Para auxiliar os participantes no monitoramento do seu desempenho durante as partidas, foi desenvolvido o Software de Desempenho dos Jogadores do Prog-Poly (SDJP), ele se encontra na pasta Prog-poly/Prog-poly/Software/ e possibilita que os participantes acompanhem seu desempenho no jogo, possibilitando verificar quais foram seus erros e acertos nas respostas das perguntas, assim podendo estudar o conteúdo que tiveram maior dificuldade. Os dados podem ser exportados para uma planilha do Excel.
 
