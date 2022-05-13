@@ -28,6 +28,7 @@ CompartilhaIgual — Se você remixar, transformar, ou criar a partir do materia
 Sem restrições adicionais — Você não pode aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a licença permita.
 
 Leia mais sobre a licença em:
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt
