@@ -1,0 +1,3 @@
+Inkscape is an open source vector editor that uses SVG as its native format. The program can read and write SVG perfectly and can export EPS. The user interface is not as elegant as other solutions, but once you learn it, Inkscape is a powerful tool.
+
+Inkscape é um editor de vetores de código aberto que usa SVG como formato nativo. O programa pode ler e gravar SVG perfeitamente e pode exportar EPS. A interface de usuário não é tão elegante como a de outras soluções, mas, depois de aprendido, o Inkscape é uma ferramenta poderosa.
